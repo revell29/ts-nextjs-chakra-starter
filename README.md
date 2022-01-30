@@ -4,9 +4,7 @@
   
   
 [![CodeFactor](https://www.codefactor.io/repository/github/revell29/ts-nextjs-chakra-starter/badge)](https://www.codefactor.io/repository/github/revell29/ts-nextjs-chakra-starter)
-  
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=revell29_ts-nextjs-chakra-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=revell29_ts-nextjs-chakra-starter)
-
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=revell29_ts-nextjs-chakra-starter&metric=bugs)](https://sonarcloud.io/dashboard?id=revell29_ts-nextjs-chakra-starter)
 [![Depfu](https://badges.depfu.com/badges/fc6e730632ab9dacaf7df478a08684a7/overview.svg)](https://depfu.com/repos/github/revell29/ts-nextjs-chakra-starter)
 
